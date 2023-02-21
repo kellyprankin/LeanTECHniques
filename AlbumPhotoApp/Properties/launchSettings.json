@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AlbumPhotoApp": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    }
+  }
+}
